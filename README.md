@@ -1,5 +1,5 @@
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png)
+![Logo](https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg)
 
 
 ## Installation
